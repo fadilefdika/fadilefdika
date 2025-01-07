@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a web developer with a strong focus on both frontend and backend development. Passionate about UI/UX design and data science, particularly in machine learning, I am always exploring new technologies to enhance my skills. I have hands-on experience with frameworks and tools such as Next.js, Laravel, Express.js, and Firebase, and I strive to apply my knowledge to build efficient, scalable, and innovative full-stack applications. My goal is to contribute to challenging projects that push the boundaries of modern web technologies.
 
+This is my website portfolio : https://portofolio-fadilefdikas-projects.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dlhjhn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-fadil-efdika) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@EfdFadil_) 
